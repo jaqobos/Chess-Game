@@ -6,7 +6,7 @@ namespace Aula12_Xadrez
     {
         static void Main(string[] args)
         {
-           
+           Console.WriteLine("Pedro");
         }
     }
 }
